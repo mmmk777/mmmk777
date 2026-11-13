@@ -1,7 +1,7 @@
 ### I'm mmmki
 
-- 🎓 Master's student at **Tongji University**
-- 🔬 Interested in **LLM post-training**
+- Master's student at **Tongji University**
+- Interested in **LLM post-training**
 
 <br>
 
